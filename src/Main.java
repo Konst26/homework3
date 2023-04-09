@@ -90,7 +90,7 @@ public class Main {
     }
     public static void task8 () {
         System.out.println("задача8");
-        int salaryMasha = 67765;
+        int salaryMasha = 67760;
         int salaryDenis = 83690;
         int salaryKristina = 76230;
         double newSalaryMasha = (double) ((salaryMasha * 0.1) + salaryMasha);
