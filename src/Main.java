@@ -12,22 +12,29 @@ public class Main {
 
     public static void task1 () {
         System.out.println("задача1");
-      byte eggs = 1;
-      short boxes = 10;
-      int hours = 1000;
-      long time = 123456799L;
-      float years = 2.56F;
-      double lastTime = 3.5479;
+        byte eggs = 1;
+        short boxes = 10;
+        int hours = 1000;
+        long time = 123456799L;
+        float years = 2.56F;
+        double lastTime = 3.5479;
+        System.out.println(eggs);
+        System.out.println(boxes);
+        System.out.println(hours);
+        System.out.println(time);
+        System.out.println(years);
+        System.out.println(lastTime);
     }
     public static void task2 () {
         System.out.println("задача2");
         float a = 27.12f;
         long b = 987678965549L;
-        float c = 2.786F;
+        float c = 2.786f;
         short d = 569;
         short e = -159;
         short f = 27897;
         byte j = 67;
+        System.out.println(a);
     }
     public static void task3 () {
         System.out.println("задача3");
