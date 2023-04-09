@@ -15,7 +15,7 @@ public class Main {
       byte eggs = 1;
       short boxes = 10;
       int hours = 1000;
-      long time = 123456789L;
+      long time = 123456799L;
       float years = 2.56F;
       double lastTime = 3.5479;
     }
